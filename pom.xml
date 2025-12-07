@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>repo</id>
-		    <url>http://13.201.66.174:8081/</url>
+		    <url>http://43.205.135.124:8081/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>repo</id>
-		    <url>http://http://13.201.66.174:8081/</url>
+		    <url>http://43.205.135.124:8081/</url>
 		</repository>
   	</distributionManagement>
 	
